@@ -1,0 +1,3 @@
+- 👋 Hi, I’m sarika
+- 👀 I’m interested in coding and software development
+- 🌱 I’m currently learning python and spring boot
